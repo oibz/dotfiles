@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = curarrehueinfo@gmail.com
+	name = oscar ibanez
